@@ -1,3 +1,5 @@
+### فورک شخصی خودم: ستون های arash_day، arash_week و arash_month رو اضافه کردم که برای خروجی گرفتن روی محور ایکس نمودار ها استفاده بشه
+
 # Persian Calendar Model for Metabase
 
 A Metabase model that converts Gregorian dates to the Persian (Jalali) calendar system, providing additional calendar features like seasons, week start dates, and Persian month names.
